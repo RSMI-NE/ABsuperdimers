@@ -12,11 +12,11 @@ This repository contains the code used to generate the results in the paper ["Ma
 @article{2023arXiv230111934,
   title = {Machine learning assisted discovery of exotic criticality in a planar quasicrystal},
   author = {G\"okmen, Doruk Efe and 
-  			Biswas, Sounak and 
-  			Huber, Sebastian D. and 
-  			Ringel, Zohar and 
-  			Flicker, Felix and 
-  			Koch-Janusz, Maciej},
+  	Biswas, Sounak and 
+  	Huber, Sebastian D. and 
+  	Ringel, Zohar and 
+  	Flicker, Felix and 
+  	Koch-Janusz, Maciej},
   journal = {arXiv e-prints},
   year = {2023},
   month = {Jan},
