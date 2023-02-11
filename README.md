@@ -1,13 +1,13 @@
-# ABsuperdimers
+# ABsuperdimers
 This repository contains the code used to generate the results in the paper ["Machine learning assisted discovery of exotic criticality in a planar quasicrystal"](https://arxiv.org/abs/2301.11934). It uses the [`rsmine`](https://github.com/RSMI-NE/RSMI-NE) package, which discovers the emergent degrees of freedom of dimers on AB tilings to be *superdimers* on the deflated tiling by solving an information theoretic variational problem.
 
-## Main dependencies
+## Main dependencies
 * `rsmine`
 * `networkx`
 * `tensorflow`
 * `numpy`
 
-## Citation
+## Citation
 ```bibtex
 @article{2023arXiv230111934,
   title = {Machine learning assisted discovery of exotic criticality in a planar quasicrystal},
